@@ -1,7 +1,7 @@
 module example
 
-go 1.24.2
+go 1.22
 
-require spectrum v0.0.0
+require github.com/ant1kvar/spectrum v0.0.0
 
-replace spectrum => ../
+replace github.com/ant1kvar/spectrum => ../

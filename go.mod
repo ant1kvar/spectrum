@@ -1,3 +1,3 @@
-module spectrum
+module github.com/ant1kvar/spectrum
 
-go 1.24.2
+go 1.22

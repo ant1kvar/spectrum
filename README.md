@@ -30,7 +30,7 @@
 
 | Dependency | Purpose |
 |------------|---------|
-| Go 1.21+   | Build   |
+| Go 1.22+   | Build   |
 | ffmpeg / ffprobe | Audio processing |
 | ffplay     | Audio playback |
 

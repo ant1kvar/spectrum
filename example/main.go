@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"time"
 
-	"spectrum"
+	"github.com/ant1kvar/spectrum"
 )
 
 func main() {
